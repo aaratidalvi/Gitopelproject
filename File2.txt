@@ -1,6 +1,7 @@
 Change request 1-
 
-For updating adding items to kart
+For Updating adding items to kart
 
-change the file to check push to remote
-dffg
+change - the file to check push to remote
+dfff
+change -made by team on remote server
